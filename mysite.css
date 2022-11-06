@@ -17,6 +17,7 @@ h1{
 .bottom-container{
     padding: 40px 0 20px;
     word-spacing: 20px;
+    background-color:#ceedf1
 }
 body{
     text-align: center;
@@ -84,7 +85,7 @@ hr{
     margin: 40px auto ;
 }
 a{
-    text:decoration:none;
+    text-decoration:none;
 }
 a:hover{
     color:#EAF6F6
