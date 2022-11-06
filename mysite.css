@@ -1,5 +1,5 @@
 .top-container{
-    background-color: #bceef4;
+    background-color: #ceedf1;
     padding-top: 60px;
 }
 h1{
@@ -7,7 +7,7 @@ h1{
     padding-top: 5%;
     font-family: sacramento,arial;
     font-size: 400%;
-    color: #66BFBF;
+    color: #4f9cdb;
     
 }
 .middle-container{
@@ -44,7 +44,7 @@ body{
 #des{
     font-size: 280%;
     margin-top: 10px;
-    color: #66BFBF;
+    color: #4f9cdb;
     font-weight: normal;
 }
 h3,a{
